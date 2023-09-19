@@ -1,8 +1,7 @@
 # BMWAuctionPricingChallenge
 This is a project about determining the price of a used BMW in an auction environment, and what factors/features contribute or take away from profits 
 
-Table of Contents
-
+Table of Contents:
 Installations
 Reason for the project
 File Descriptions
@@ -12,7 +11,7 @@ Installation
 
 All libraries available on Anaconda distribution of python.
 
-Project Motivation
+Reason for the project
 In this project I use the BMW Car Pricing challenge dataset that I found on Kaggle to help get a better idea on what influences price by looking at:
 
 Which of the features negatively affects the price?
