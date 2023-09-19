@@ -5,10 +5,15 @@ This is a project about determining the price of a used BMW in an auction enviro
 Contents:
 
 Installations
+
 Reason for the project
+
 File Descriptions
+
 Results
+
 Acknowledgements
+
 
 
 Installation:
