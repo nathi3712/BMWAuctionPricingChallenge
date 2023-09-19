@@ -3,8 +3,8 @@ This is a project about determining the price of a used BMW in an auction enviro
 
 Table of Contents
 
-Installation
-Project Motivation
+Installations
+Reason for the project
 File Descriptions
 Results
 Acknowledgements
@@ -28,7 +28,7 @@ Notes are given as you go through the code.
 I have also included the dataset from Kaggle.
 
 Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available in Linkedin: https://www.linkedin.com/pulse/bmw-pricing-challenge-nkosinathi-magagula
 
 Acknowledgements
 The dataset was issued from Kaggle on the BMW Pricing Challenge.
